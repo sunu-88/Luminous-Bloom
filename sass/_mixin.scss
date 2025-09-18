@@ -1,0 +1,6 @@
+$tab:800px;
+@mixin tab{
+    @media(max-width: ($tab)) {
+        @content;
+    }
+}
