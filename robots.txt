@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunu-88.github.io/Luminous-Bloom/sitemap.xml
