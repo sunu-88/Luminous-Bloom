@@ -726,7 +726,7 @@ contact
   margin-bottom: 48px;
 }
 @media (max-width: 800px) {
-  .contact dd:last-of-type {
+  .contact .skin-textarea {
     margin-bottom: 8px;
   }
 }
