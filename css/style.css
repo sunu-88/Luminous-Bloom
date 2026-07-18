@@ -722,7 +722,7 @@ contact
 .contact dd {
   margin-bottom: 20px;
 }
-.contact dd:last-of-type {
+.contact .skin-textarea {
   margin-bottom: 48px;
 }
 @media (max-width: 800px) {
