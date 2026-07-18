@@ -772,14 +772,6 @@ contact
     dd {
         margin-bottom: 20px;
 
-        &:last-of-type {
-            margin-bottom: 48px;
-
-            @include m.tab {
-                margin-bottom: 8px;
-            }
-        }
-
         @include m.tab {
             margin-bottom: 8px;
         }
